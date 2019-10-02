@@ -6,6 +6,6 @@ public class Hello {
      
         System.out.println("hello Java !!!");
 
-        
+        System.out.println("Happy Hacking");
     }
 }

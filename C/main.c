@@ -15,7 +15,8 @@ int main(void) {
     fact = fact * i;
  
   //print the answe
-  printf("Factorial of %d = %d\n", num, fact);
+  printf("Factorial of %d is %d\n", num, fact);
+  printf("happy hacking");
  
   return 0;
 }
